@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Batuhan</h1>
+<h1 align="center">Hi 👋, I'm Sinyordes</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
 - 📫 How to reach me **sinyordes@protonmail.com**
