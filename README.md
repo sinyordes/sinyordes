@@ -25,7 +25,7 @@
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
-
+<center>
 <p align="center">
    <details>
 <a href="https://github.com/sinyordes">
@@ -49,3 +49,5 @@
 <img src="https://komarev.com/ghpvc/?username=sinyordes&color=blue&style=flat)" />
 </a>
 </p>
+   </center>
+
