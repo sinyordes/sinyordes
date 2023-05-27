@@ -25,6 +25,25 @@
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png" alt="cplusplus" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinyordes&show_icons=true&locale=en&layout=compact" alt="sinyordes" /></p>
+<details>
+<p align="center">
+<a href="https://github.com/sinyordes">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinyordes&theme=transparent" />
+</a>
+<a href="https://github.com/sinyordes">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sinyordes&hide_border=true&card_width=338&theme=transparent" />
+</a>
+<a href="https://github.com/sinyordes">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinyordes&theme=transparent" />
+</a>
+<a href="https://github.com/sinyordes">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinyordes&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+</a>
+</p>
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinyordes&show_icons=true&locale=en" alt="sinyordes" /></p>
+<p align="center">
+<a href="https://github.com/sinyordes">
+<img src="https://komarev.com/ghpvc/?username=sinyordes&color=blue&style=flat)" />
+</a>
+</p>
