@@ -27,6 +27,7 @@
 
 
 <p align="center">
+   <details>
 <a href="https://github.com/sinyordes">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sinyordes&theme=transparent" />
 </a>
@@ -36,6 +37,7 @@
 <a href="https://github.com/sinyordes">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sinyordes&theme=transparent" />
 </a>
+   </details>
 <a href="https://github.com/sinyordes">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinyordes&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
 </a>
